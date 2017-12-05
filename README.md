@@ -13,9 +13,9 @@ With the growth of social media in recent years, there has been an increasing in
 
 This software Is distributed as it is for the fairly purpose of NLP/Machine Learning studies. 
 
-Use "callfunc" to extract meta-attributes from a given test (we've tested using .csv files and MongoDB databases cointaning male/female tweets), using the vetorized outputs with a variety of ML algorithms such as Naive-Bayes, MLP, Random Tree Forests and Support Vector Machines, among others, for taks such as text autorship attribution, computational forensics, autthor profling, gender expression studies etc.
+Use "callfunc" to extract meta-attributes from a given text (we've tested using .csv files and MongoDB databases cointaning male/female tweets), using the vetorized outputs with a variety of ML algorithms such as Naive-Bayes, MLP, Random Tree Forests and Support Vector Machines, among others, for taks such as text autorship attribution, computational forensics, autthor profling, gender expression studies etc.
 
-I personally recommend scikit-learn or WEKA as basic ML tollkits.
+I personally recommend scikit-learn or WEKA as basic ML toolkits.
 
 []'s
 
