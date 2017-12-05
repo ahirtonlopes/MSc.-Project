@@ -2,6 +2,8 @@
 
 Gender Classification of Twitter Data Based on Textual Meta-Attributes Extraction
 
+https://www.researchgate.net/publication/293794120_Gender_Classification_of_Twitter_Data_Based_on_Textual_Meta-Attributes_Extraction
+
 March 2016
 DOI10.1007/978-3-319-31232-3_97
 In book: New Advances in Information Systems and Technologies, Edition: Volume 444 of the series Advances in Intelligent Systems and Computing, Chapter: Part VIII, Publisher: Springer International Publishing, pp.1025-1034
