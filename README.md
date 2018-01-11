@@ -1,4 +1,4 @@
-# MsC.-Project
+# MSc.-Project
 
 Gender Classification of Twitter Data Based on Textual Meta-Attributes Extraction
 
